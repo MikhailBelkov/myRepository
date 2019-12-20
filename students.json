@@ -1,1 +1,30 @@
-[{"name":"Сваяк","producer":"Минский завод виноградных вин","strength":"40%","count":"10","id":"0"},{"name":"Дикая Утка","producer":"Белалко","strength":"40%","count":"20","id":"1"},{"name":"Бульбашъ","producer":"Завод Бульбашъ","strength":"20%","count":"50","id":"2"},{"name":"Беловежская","producer":"Минск Кристалл","strength":"20%","count":"5","id":"3"},{"name":"Мѣнскъ","producer":"Минский завод виноградных вин","strength":"40%","count":"5","id":"4"}]
+{
+  "students":
+  [
+    {
+      "firstName": "Имя",
+      "secondName": "Фамилия",
+      "averageMark": "Средний бал",
+      "age": "Возрост","id":"0"
+    },
+    {
+      "firstName": "Dima",
+      "secondName": "Antonevich",
+      "averageMark": 5.6,
+      "age": 18,"id":"1"
+    },
+    {
+      "firstName": "Liza",
+      "secondName": "Zaiceva",
+      "averageMark": 6.5,
+      "age": 19,"id":"2"
+    },
+    {
+      "firstName": "Mark",
+      "secondName": "Pavlov",
+      "averageMark": 9.5,
+      "age": 20,"id":"3"
+    }
+  ]
+}
+  
