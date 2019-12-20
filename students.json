@@ -4,19 +4,19 @@
       "firstName": "Dima",
       "secondName": "Antonevich",
       "averageMark": 5.6,
-      "age": 18,"id":"1"
+      "age": 18,"id":"0"
     },
     {
       "firstName": "Liza",
       "secondName": "Zaiceva",
       "averageMark": 6.5,
-      "age": 19,"id":"2"
+      "age": 19,"id":"1"
     },
     {
       "firstName": "Mark",
       "secondName": "Pavlov",
       "averageMark": 9.5,
-      "age": 20,"id":"3"
+      "age": 20,"id":"2"
     }
   ]
 
